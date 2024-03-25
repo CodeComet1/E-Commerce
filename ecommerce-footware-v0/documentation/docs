@@ -3,3 +3,4 @@ new user
 username:User1
 Password:User123
 mongodb+srv://User1:User123@cluster0.kibe3cd.mongodb.net/
+Using MVC Pattern:The Model-View-Controller (MVC) pattern is a software design pattern  commonly used for developing user interfaces. It separates the related program logic into three interconnected elements
