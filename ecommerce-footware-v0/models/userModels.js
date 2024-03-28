@@ -23,7 +23,7 @@ const userSchema = new mongoose.Schema(
         type:String,
         required: true,
     },
-    rule:{
+    role:{
         type:Number,
         default:0,
     }
